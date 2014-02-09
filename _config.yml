@@ -2,13 +2,13 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://blog.hsatac.net
-title: hSATAC
+url: http://blog.ash.cat
+title: cAt Ash
 #subtitle: ">> ('cat' + 'ash').reverse #=> \"hsatac\"" 
 subtitle: 
 author: Ash Wu
 simple_search: http://google.com/search
-description: "I am a programming language user. Here are some breadcrumbs of my work and life.\n >> ('cat' + 'ash').reverse #=> \"hsatac\""
+description: "Things related to my hobbies and life..\n >> ('cat' + 'ash').reverse #=> \"hsatac\""
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -17,7 +17,7 @@ description: "I am a programming language user. Here are some breadcrumbs of my 
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: http://feeds.feedburner.com/hsatac
+#subscribe_rss: http://feeds.feedburner.com/hsatac
 subscribe_email:
 # RSS feeds can list your email address if you like
 email: hsatac@gmail.com

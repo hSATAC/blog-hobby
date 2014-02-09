@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 隻字片語 | cAt Ash]]></title>
+  <link href="http://blog.ash.cat/categories/zhi-zi-pian-yu/atom.xml" rel="self"/>
+  <link href="http://blog.ash.cat/"/>
+  <updated>2014-02-09T22:28:10+08:00</updated>
+  <id>http://blog.ash.cat/</id>
+  <author>
+    <name><![CDATA[Ash Wu]]></name>
+    <email><![CDATA[hsatac@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Sugar and spice and everything nice]]></title>
+    <link href="http://blog.ash.cat/2008/07/sugar-and-spice-and-everything-nice/"/>
+    <updated>2008-07-26T00:00:00+08:00</updated>
+    <id>http://blog.ash.cat/2008/07/sugar-and-spice-and-everything-nice</id>
+    <content type="html"><![CDATA[<p><p><em>What are little girls made of? <br /> Sugar and spice and everything nice</em></p><p><em><br /></em></p><p>-from a popular nursery rhyme dating from the early nineteenth century. </p><!-- more -->
+</p>
+
+]]></content>
+  </entry>
+  
+</feed>

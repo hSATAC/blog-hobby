@@ -1,10 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://blog.ash.cat/2008/02/gt-lug-roadbike-build-log/</loc>
+        <lastmod>2014-02-10T22:20:52+08:00</lastmod>
+    </url>
+    <url>
         <loc>
             http://blog.ash.cat/2008/05/%E8%B4%88%E9%80%81shimano-light-action%E5%BE%8C%E8%AE%8A%E4%B8%80%E9%A1%86/
         </loc>
-        <lastmod>2014-02-09T21:33:02+08:00</lastmod>
+        <lastmod>2014-02-10T22:22:56+08:00</lastmod>
     </url>
     <url>
         <loc>
@@ -184,7 +188,7 @@
     </url>
     <url>
         <loc>http://blog.ash.cat/blog/archives/</loc>
-        <lastmod>2014-02-10T01:03:22+08:00</lastmod>
+        <lastmod>2014-02-10T22:22:56+08:00</lastmod>
     </url>
     <url>
         <loc>http://blog.ash.cat/blog/categories/</loc>
@@ -192,7 +196,7 @@
     </url>
     <url>
         <loc>http://blog.ash.cat/</loc>
-        <lastmod>2014-02-10T01:03:22+08:00</lastmod>
+        <lastmod>2014-02-10T22:22:56+08:00</lastmod>
     </url>
     <url>
         <loc>http://blog.ash.cat/robots.txt</loc>

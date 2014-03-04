@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: archery | cAt Ash]]></title>
+  <link href="http://blog.ash.cat/categories/archery/atom.xml" rel="self"/>
+  <link href="http://blog.ash.cat/"/>
+  <updated>2014-03-04T09:37:43+08:00</updated>
+  <id>http://blog.ash.cat/</id>
+  <author>
+    <name><![CDATA[Ash Wu]]></name>
+    <email><![CDATA[hsatac@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[安裝磁鐵箭座]]></title>
+    <link href="http://blog.ash.cat/2014/03/installing-magnetic-arrow-rest/"/>
+    <updated>2014-03-04T09:15:00+08:00</updated>
+    <id>http://blog.ash.cat/2014/03/installing-magnetic-arrow-rest</id>
+    <content type="html"><![CDATA[<p><img src="/images/archery/arrow-rest/IMG_2706.jpg" alt="" /></p>
+
+<p>以前射箭的時候，買了一個二手的磁鐵箭座，不過因為少一顆固定螺絲，所以一直沒有安裝上去，放了應該有十年了。</p>
+
+<p>當初以為螺絲應該不難找，沒想到找了幾次都無功而返，最後就塵封在弓箱中&hellip;。</p>
+
+<p>最近又開始射箭，原本使用的塑膠箭座也軟化了，決定認真來把這件事情解決。</p>
+
+<!-- more -->
+
+
+<p><img src="/images/archery/arrow-rest/IMG_2704.jpg" alt="" /></p>
+
+<p>在這邊先提供螺絲的規格：<code>5/16" 24 x 3/4" BHCS</code> 直接拿給螺絲行老闆看即可。</p>
+
+<p>我跑了不少家，最後是在中和的福益螺絲行找到，唯一缺點是螺絲頭比較醜&hellip;不過相較之下這小事而已。</p>
+
+<p>總之先把 plunger 和原本的塑膠箭座拆下&hellip;</p>
+
+<p><img src="/images/archery/arrow-rest/IMG_2705.jpg" alt="" /></p>
+
+<p><img src="/images/archery/arrow-rest/IMG_2707.jpg" alt="" /></p>
+
+<p>刮除殘膠&hellip;</p>
+
+<p><img src="/images/archery/arrow-rest/IMG_2708.jpg" alt="" /></p>
+
+<p>螺絲長度上去剛好！</p>
+
+<p><img src="/images/archery/arrow-rest/IMG_2710.jpg" alt="" /></p>
+
+<p>裝上去的樣子&hellip;</p>
+
+<p><img src="/images/archery/arrow-rest/IMG_2711.jpg" alt="" /></p>
+
+<p><img src="/images/archery/arrow-rest/IMG_2712.jpg" alt="" /></p>
+
+<p>調整&hellip;plunger 由於現在多夾了磁鐵箭座，因此要把距離補上，我的已調到最左，勉強剛好可以。要再往左調可能要換更長的芯了。按 FITA 教練手冊，調整到箭頭偏弦左方約 &frac34; 顆箭頭。</p>
+
+<p><img src="/images/archery/arrow-rest/arrow_position.png" alt="" /></p>
+
+<p>箭座的部份則是微往上翹，對齊箭桿。</p>
+
+<p><img src="/images/archery/arrow-rest/arrow_rest.png" alt="" /></p>
+
+<p>這樣就安裝完成了！終於把放了這麼久都沒用到的東西裝了上去&hellip;心中無比感動。</p>
+]]></content>
+  </entry>
+  
+</feed>
